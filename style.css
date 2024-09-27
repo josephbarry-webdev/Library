@@ -52,3 +52,15 @@ padding: 10% 15% 10% 15%;
 h1{
     margin: 0;
 }
+.UNREAD{
+    background-color: rgb(185, 185, 185);
+    color: red;
+    border-radius: 5pt;
+    text-align: center;
+}
+.READ{
+    background-color: rgb(185, 185, 185);
+    color: greenyellow;
+    border-radius: 5pt;
+    text-align: center;
+}
